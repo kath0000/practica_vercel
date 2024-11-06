@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $openstack = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "OpenStack",
+"autor" => "@Wiki",
+"resumen" => "OpenStack es una plataforma de computación en la nube gratuita y de estándar abierto ",
 ];
 ?>
